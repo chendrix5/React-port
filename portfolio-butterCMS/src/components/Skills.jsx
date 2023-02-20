@@ -23,7 +23,7 @@ const Skills = () => {
                   <p className='my-4'>REACT</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>GITHUB</p>
+                  <p className='my-4'>GIT</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>NODE JS</p>
@@ -32,19 +32,19 @@ const Skills = () => {
                   <p className='my-4'>MONGO DB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>AWS</p>
+                  <p className='my-4'>Python</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>Django</p>
+                  <p className='my-4'>Express</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>Sass</p>
+                  <p className='my-4'>TailwindCSS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>Mongodb</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>GraphQl</p>
+                  <p className='my-4'>PostgreSQL</p>
               </div>
           </div>
       </div>
